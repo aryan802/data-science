@@ -1,1 +1,1 @@
-# udemy-Data-Science-ml-nlp-notes
+# python notes
