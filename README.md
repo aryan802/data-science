@@ -3,7 +3,7 @@
 # 1) Python-notes notebook
   1> Basic Operations and Data types -> Define Variables, print(), f-string, input("prompt"), type(), len(), Data-types[text, numeric(int, float, complex), sequence(list, tuple, range), map(dictionary), set, boolean, None Type]
   
-  2> Control Flow
+  2> Control Flow -> if-elif-else, for, for-in, while, for-else, range(-,-,-)
   
   3> String Operations
 
