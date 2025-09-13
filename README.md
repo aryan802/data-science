@@ -5,7 +5,7 @@
   
   2> Control Flow -> if-elif-else, for-in, while, for-else, range(-,-,-)
   
-  3> String Operations
+  3> String Operations -> (v1,v2=a1,a2), s[i](char at ith index), slicing(s[-:-:-]), reversed=s[::-1], concatenation(s1.join(s2))
 
   4> List and List comprehensions
 
