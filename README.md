@@ -7,7 +7,7 @@
   
   3> String Operations -> (v1,v2=a1,a2), s[i](char at ith index), slicing(s[-:-:-]), reversed=s[::-1], concatenation(s1.join(s2))
 
-  4> List and List comprehensions -> [],same data type, lst[-1](last element), slicing lst[-:-:-], lst.append("-"), lst.insert(index,"-"), lst.remove("-"), lst.pop()(last item remove and print), lst.index('-'), lst.count('-'), [2::2], reverse slice [::-2], (for index, value in enumerate(lst):), comprehension [x****2 for x in range(5)], with condition [x**2 for x in range(10) if x%2 == 0], nested comprehension [[i*j for j in range(1,4)] for i in range(1,4)], [len(word) for word in words], % - unit digit -> // - unit digit remove
+  4> List and List comprehensions -> [],same data type, lst[-1](last element), slicing lst[-:-:-], lst.append("-"), lst.insert(index,"-"), lst.remove("-"), lst.pop()(last item remove and print), lst.index('-'), lst.count('-'), [2::2], reverse slice [::-2], (for index, value in enumerate(lst):), comprehension [x****2 for x in range(5)], with condition [x**2 for x in range(10) if x%2 == 0], nested comprehension [[i*j for j in range(1,4)] for i in range(1,4)], [len(word) for word in words], % 10 - unit digit -> // 10 - unit digit remove
 
   5> Tuples -> (1,) - single element tuple, immutable, different data types possible, accessing --> ([0],[-1] - last element, [1:4], [::-1] - reverse, [::2]), concatenation tup1+tup2, "-" in tup, repeat = tup*2 -> values repeat, tup.count('-') -> freq of duplicated element, tup.index(3) -> element at that index, tup.index('-', 1) -> index of '-' starting from 1, packing = 1,2,3 -> (1,2,3) (implicitly/by itself), unpack -> a,b = (1,2), nested tuple -> tupp[1][2], for item in numbers_tup, for i, item in enumerate(numbers_tup), swap -> (x,y = y,x) 
 
